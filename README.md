@@ -1,2 +1,3 @@
 # hello-world
-Just a test repository
+Learning to write code is hard!
+But im going to give it a shot!
